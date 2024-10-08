@@ -8,7 +8,6 @@ This project demonstrates how to interface an **EEPROM (24C02)** with the **8051
 
 1. **Study the EEPROM (24C02) Datasheet**  
    - Studied the EEPROM 24C02 datasheet to understand its memory layout, I2C communication, and write cycle limitations.  
-   - Datasheet link: [EEPROM 24C02 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/21202j.pdf).
 
 2. **I2C Driver Implementation**  
    - Developed a software-based I2C driver in C to communicate with the 24C02 EEPROM.  
